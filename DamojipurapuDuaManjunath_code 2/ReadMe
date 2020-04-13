@@ -1,0 +1,5 @@
+There are 4 models in this folder: model(Logistic Regression).ipynb, model(RandomForest).ipynb, model(SVC).ipynb, and nGramsLogRegression.ipynb.
+
+The model we chose to use was model(Logistic Regression).ipynb, which was just a logistic regression model.
+
+To open our ipynb files, you would need to have jupyter notebook installed. Once installed, type "jupyter notebook" on your terminal/command prompt to open up jupyter. Here, you can open whichever ipynb file, each one corresponding to certain model. There are a couple imports needed to run our file. First, to import these libraries, you would need to use pip install. After installing pip, you can pip install scikit learn, nltk, and all of the other imports at the top of each file. Lastly, we coded in python, so you need to pip install python3. To finally run our code, just simply click "run all cells" in the cells tab. 
